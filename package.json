@@ -1,0 +1,24 @@
+{
+  "name": "sekretus",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.6.0",
+    "npm": "6.1.0"
+  },
+  "description": "password generator",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  },
+  "author": "kuldarim",
+  "license": "ISC"
+}
